@@ -1,3 +1,7 @@
+---
+order: 3
+---
+
 # Table of contents
 
 * [Инструкция по работе в личном кабинете](README.md)
