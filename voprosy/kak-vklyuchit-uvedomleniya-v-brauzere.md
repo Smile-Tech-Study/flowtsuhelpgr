@@ -1,59 +1,89 @@
 ---
 description: Основные браузеры и включение уведомлений в них
+order: 1.992502
+title: Как включить уведомления в браузере?
 ---
 
-# Как включить уведомления в браузере?
+Основные браузеры и включение уведомлений в них
 
-#### Windows/Mac OS
+**Windows/Mac OS**
 
-{% tabs %}
-{% tab title="Google Chrome" %}
+[tabs]
+
+[tab:Google Chrome]
+
 1. Откройте браузер Chrome на компьютере.
+
 2. В правом верхнем углу окна нажмите на значок с тремя точками, выберите Настройки.
-3. Нажмите Конфиденциальность и безопасность -  в самом низу строка Настройки сайтов - Уведомления (в блоке Разрешения).
+
+3. Нажмите Конфиденциальность и безопасность - в самом низу строка Настройки сайтов - Уведомления (в блоке Разрешения).
+
 4. Выберите параметры, которые будут действовать по умолчанию, а также добавьте сайты, с которых будут приходить уведомления на устройство.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+   ![](./kak-vklyuchit-uvedomleniya-v-brauzere.jpeg){width=1465px height=1034px}
 
-{% tab title="Яндекс.Браузер" %}
+[/tab]
+
+[tab:Яндекс.Браузер]
+
 1. Откройте Яндекс.Браузер на компьютере
-2. В разделе Уведомления нажмите Уведомления → Уведомления от сайтов.&#x20;
-3. В списке Разрешены или Заблокированы нажмите название нужного сайта.&#x20;
+
+2. В разделе Уведомления нажмите Уведомления --> Уведомления от сайтов.
+
+3. В списке Разрешены или Заблокированы нажмите название нужного сайта.
+
 4. Включите опцию Блокировать или Разрешить.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+   ![](./kak-vklyuchit-uvedomleniya-v-brauzere-2.jpeg){width=1415px height=958px}
 
-{% tab title="Safari" %}
+[/tab]
+
+[tab:Safari]
+
 1. Откройте Safari на компьютере
+
 2. В левом верхнем углу выберите Safari - Настройки - Веб-сайты.
+
 3. В левой колонке выберите "Уведомления".
+
 4. Разрешите или запретите уведомления для сайтов.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+![](./kak-vklyuchit-uvedomleniya-v-brauzere-3.jpeg){width=1161px height=487px}
 
-#### iPhone/Android
+[/tab]
 
-{% tabs %}
-{% tab title="Google Chrome" %}
+[/tabs]
+
+#### **iPhone/Android**
+
+[tabs]
+
+[tab:Google Chrome]
+
 1. Откройте браузер Chrome на устройстве Android.
+
 2. Справа от адресной строки нажмите на значок с тремя точками Настройки.
+
 3. Выберите Настройки сайтов Уведомления.
+
 4. Установите переключатель вверху экрана в нужное положение.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+   ![](./kak-vklyuchit-uvedomleniya-v-brauzere-4.jpeg){width=596px height=393px}
 
-<mark style="color:red;">**! На устройствах iPhone и iPad уведомления в Chrome не поддерживаются.**</mark>
-{% endtab %}
+   **! На устройствах iPhone и iPad уведомления в Chrome не поддерживаются.**
 
-{% tab title="Браузеры iPhone" %}
+[/tab]
+
+[tab:Браузеры iPhone]
+
 1. Откройте Настройки на iPhone.
+
 2. Выберите Уведомления.
+
 3. В блоке Стиль уведомлений настройте уведомления для браузера.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+   ![](./kak-vklyuchit-uvedomleniya-v-brauzere-5.jpeg){width=586px height=1251px}
+
+[/tab]
+
+[/tabs]
