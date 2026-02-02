@@ -11,7 +11,7 @@ title: Инструкция по работе в личном кабинете
 
 Вход в личный кабинет доступен по ссылке <https://lk.tgu-dpo.ru/Cabinet/Login>
 
-Для граждан, прошедших обучение в 2024 году, доступен вход по ссылке [https://2024.lk.tgu-dpo.ru/Cabinet/](https://2024.lk.tgu-dpo.ru/Cabinet/Learning)[Login](https://lk.tgu-dpo.ru/Cabinet/Login)
+Для граждан, прошедших обучение в 2025 году, доступен вход по ссылке [https://2024.lk.tgu-dpo.ru/Cabinet/](https://2024.lk.tgu-dpo.ru/Cabinet/Learning)[Login](https://lk.tgu-dpo.ru/Cabinet/Login)
 
 Для граждан, прошедших обучение в 2025 году, доступен вход по ссылке <https://2024.lk.tgu-dpo.ru/Cabinet/Login>
 
@@ -37,7 +37,7 @@ title: Инструкция по работе в личном кабинете
 
 </figure>
 
-## Подробнее о работе в личном кабинете
+Подробнее о работе в личном кабинете
 
 :::danger 
 
