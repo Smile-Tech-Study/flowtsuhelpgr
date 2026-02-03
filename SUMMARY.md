@@ -3,7 +3,7 @@ order: 0.3
 title: Содержание
 ---
 
--  [Инструкция по работе в личном кабинете](./README)
+-  [Инструкция по работе в личном кабинете](./SUMMARY)
 
 -  [Flow - что это?](./flow-chto-eto)
 
@@ -11,7 +11,7 @@ title: Содержание
 
 -  [Где будет проходить обучение?](./obuchenie/gde-budet-prokhodit-obuchenie)
 
--  [Успеваемость/Посещаемость - важная метрика обучающихся](https://gramax.smile-tech.study/OdinStudents_help/profil/uspevaemost-poseshaemost)
+-  [Успеваемость/Посещаемость - важная метрика обучающихся](https://www.odin.study/studentshelp/profil/uspevaemost-poseshaemost)
 
 ## ⁉️ Вопросы
 
