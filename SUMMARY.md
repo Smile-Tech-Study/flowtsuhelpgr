@@ -9,6 +9,8 @@ title: Содержание
 
 :::
 
+
+
 [html]
 
 <!DOCTYPE html>
@@ -242,7 +244,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; b
   </div>
   <div class="links">
     <a href="https://www.tgu-dpo.ru/Form" class="link-card" target="_blank" style="background:#F0FBF6;border-color:#9FE1CB;" target="_blank">
-      🖥️ Проблема в личном кабинете Flow — написать в поддержку ТГУ
+      🖥️ Проблема в личном кабинете Flow — написать в техническую поддержку
       <span class="arrow">→</span>
     </a>
     <a href="https://lk.tgu-dpo.ru" class="link-card" target="_blank" style="background:#EEF4FB;border-color:#B5D4F4;" target="_blank">
