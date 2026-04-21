@@ -162,7 +162,7 @@ body { font-family: sans-serif; background: #fff; }
     <div class="card">
       <div class="card-num">5</div>
       <div class="card-icon">🚀</div>
-      <div class="card-text">Находите новую работу или применяете навыки</div>
+      <div class="card-text">Находите новую работу или применяете новые навыки на текущей</div>
     </div>
   </div>
   <div class="dots">
