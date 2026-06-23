@@ -142,7 +142,14 @@ function switchTab(id) {
   });
 }
 </script>
-
+<script>
+  function resize() {
+    const h = document.documentElement.scrollHeight;
+    window.parent.postMessage({ iframeHeight: h }, '*');
+  }
+  window.addEventListener('load', resize);
+  window.addEventListener('resize', resize);
+</script>
 </body>
 </html>
 
