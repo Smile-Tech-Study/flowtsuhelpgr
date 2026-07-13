@@ -199,23 +199,23 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; b
       📎 Как загрузить дополнительный документ?
       <span class="arrow">→</span>
     </a>
-    <a href="#" class="link-card" target="_blank">
+    <a href="https://www.flow-crm.study/flowtsuhelpgr/voprosy/chto-delat-esli-dogovor-o-namereniyakh-zaklyuche" class="link-card" target="_blank">
       🔄 Договор о намерениях есть, обучение не началось
       <span class="arrow">→</span>
     </a>
-    <a href="#" class="link-card" target="_blank">
+    <a href="https://www.flow-crm.study/flowtsuhelpgr/voprosy/smenilis-dannye-vo-vremya-obucheniya" class="link-card" target="_blank">
       👤 Смена фамилии или новый паспорт во время обучения
       <span class="arrow">→</span>
     </a>
-    <a href="#" class="link-card" target="_blank">
+    <a href="https://www.flow-crm.study/flowtsuhelpgr/voprosy/oshibka-opechatka-v-dokumentakh-na-zachislenie" class="link-card" target="_blank">
       ✏️ Ошибка или опечатка в заявлении на зачисление
       <span class="arrow">→</span>
     </a>
-    <a href="#" class="link-card" target="_blank">
+    <a href="https://www.flow-crm.study/flowtsuhelpgr/voprosy/kvota-zakonchilas" class="link-card" target="_blank">
       🎟️ Квота закончилась — что делать?
       <span class="arrow">→</span>
     </a>
-    <a href="#" class="link-card" target="_blank">
+    <a href="https://www.flow-crm.study/flowtsuhelpgr/voprosy/kak-smenit-adres-polucheniya-dokumenta-po-zaversh" class="link-card" target="_blank">
     ✉️ Как сменить адрес получения документа по завершении обучения?
      <span class="arrow">→</span>
     </a>
