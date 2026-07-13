@@ -215,6 +215,10 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; b
       🎟️ Квота закончилась — что делать?
       <span class="arrow">→</span>
     </a>
+    <a href="#" class="link-card" target="_blank">
+    ✉️ Как сменить адрес получения документа по завершении обучения?
+     <span class="arrow">→</span>
+    </a>
   </div>
 </div>
 
