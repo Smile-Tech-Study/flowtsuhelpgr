@@ -24,15 +24,13 @@ title: Если ссылка недействительна
 <meta charset="UTF-8">
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #fff; }
-
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #fff; container-type: inline-size; }
 .table { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
-@media (max-width: 480px) {
+@container (max-width: 480px) {
   .table {
     grid-template-columns: 1fr;
   }
 }
-
 .col {
   background: #F7F9FC;
   border-radius: 12px;
