@@ -28,19 +28,15 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; b
 .table { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
 @container (max-width: 480px) {
   .table {
-    grid-template-columns: 1fr;
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
   }
-}
 .col {
-  background: #F7F9FC;
-  border-radius: 12px;
-  border: 1px solid #E4E8EF;
-  padding: 16px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  opacity: 0;
-  transform: translateY(12px);
+    flex: 0 0 85%;
+    scroll-snap-align: center;
+  }
 }
 .col:nth-child(1) { animation: up 0.4s ease 0.2s forwards; }
 .col:nth-child(2) { animation: up 0.4s ease 0.4s forwards; }
