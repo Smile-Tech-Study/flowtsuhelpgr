@@ -27,6 +27,11 @@ title: Если ссылка недействительна
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #fff; }
 
 .table { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+@media (max-width: 480px) {
+  .table {
+    grid-template-columns: 1fr;
+  }
+}
 
 .col {
   background: #F7F9FC;
