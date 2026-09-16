@@ -131,7 +131,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; b
     <div class="section-title">Частые вопросы</div>
   </div>
   <div class="links">
-    <a href="https://www.flow-crm.study/flowtsuhelpgr/voprosy/ssylka-nedeistvitelna.-chto-delat" class="link-card" target="_blank">
+    <a href="https://www.flow-crm.study/flowtsuhelpgr/voprosy/ssylka-nedeistvitelna-chto-delat" class="link-card" target="_blank">
       🔗 Ссылка недействительна. Что делать?
       <span class="arrow">→</span>
     </a>
