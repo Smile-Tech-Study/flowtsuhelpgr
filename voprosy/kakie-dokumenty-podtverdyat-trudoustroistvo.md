@@ -22,15 +22,3 @@ title: Какие документы подтвердят трудоустрой
 ![](./kakie-dokumenty-podtverdyat-trudoustroistvo-2.webp){width=1280px height=663px}
 
 Если документ не был загружен на этом этапе, то это можно сделать позже из блока «Обучение».
-
-<figure>
-
-![](<../.gitbook/assets/image (25).png>)
-
-<figcaption>
-
-
-
-</figcaption>
-
-</figure>
