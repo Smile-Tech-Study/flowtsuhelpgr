@@ -13,21 +13,11 @@ title: 🚫 Как отменить заявку/отчислиться?
 
 :::
 
-Для отмены заявки в личном кабинете гражданина  нажмите кнопку **"Отозвать заявку"**.
+Для отмены заявки в личном кабинете гражданина  нажмите кнопку "Отозвать заявку".
 
-<figure>
+![](./kak-otmenit-zayavku-otchislitsya.webp){width=1920px height=384px}
 
-![](<../.gitbook/assets/image (9).png>)
-
-<figcaption>
-
-
-
-</figcaption>
-
-</figure>
-
-Далее вы перейдёте на [портал РР](https://trudvsem.ru), где необходимо отозвать заявку. Для этого:
+Далее вы перейдёте на \[портал РР\](<https://trudvsem.ru/>), где необходимо отозвать заявку. Для этого:
 
 **1\. После** [**авторизации**](https://trudvsem.ru/auth/candidate/services/applications)**, откройте "Все сервисы" -> "Меры поддержки" -> "**[**Мои заявления**](https://trudvsem.ru/auth/candidate/services/applications)**"**
 
