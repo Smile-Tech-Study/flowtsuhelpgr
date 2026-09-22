@@ -19,7 +19,7 @@ title: Какие документы подтвердят трудоустрой
 
 Загрузка документа, подтверждающего трудоустройство, доступна при уточнении данных до начала обучения.
 
-![](./kakie-dokumenty-podtverdyat-trudoustroistvo.jpeg){width=1280px height=663px}
+![](./kakie-dokumenty-podtverdyat-trudoustroistvo-2.webp){width=1280px height=663px}
 
 Если документ не был загружен на этом этапе, то это можно сделать позже из блока «Обучение».
 
