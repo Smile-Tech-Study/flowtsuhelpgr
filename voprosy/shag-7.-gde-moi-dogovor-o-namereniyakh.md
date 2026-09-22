@@ -3,7 +3,7 @@ order: 8
 title: Шаг 7. Где мой договор о намерениях?
 ---
 
-[html]
+[html::860px]
 
 <!DOCTYPE html>
 <html lang="ru">

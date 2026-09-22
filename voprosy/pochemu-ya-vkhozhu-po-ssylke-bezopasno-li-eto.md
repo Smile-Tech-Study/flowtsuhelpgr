@@ -3,7 +3,7 @@ order: 6
 title: 🔗 Почему я вхожу по ссылке? Безопасно ли это?
 ---
 
-[html]
+[html::860px]
 
 <!DOCTYPE html>
 <html lang="ru">

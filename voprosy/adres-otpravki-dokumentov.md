@@ -3,7 +3,7 @@ order: 4
 title: 📨 Адрес отправки документов
 ---
 
-[html]
+[html::860px]
 
 <!DOCTYPE html>
 <html lang="ru">

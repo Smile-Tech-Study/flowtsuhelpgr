@@ -17,7 +17,7 @@ title: Инструкция по работе в личном кабинете
 
 :::
 
-[html]
+[html::860px]
 
 <!DOCTYPE html>
 <html lang="ru">
