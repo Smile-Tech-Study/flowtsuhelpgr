@@ -1,6 +1,9 @@
 ---
 order: 17.5
 title: Какие документы подтвердят трудоустройство?
+aliases:
+  - path: voprosy/kakie-dokumenty-podtverdyat-trudoustroystvo
+    moved: "2026-09-22T10:02:36Z"
 ---
 
 ## Список документов для подтверждения трудоустройства гражданина:
